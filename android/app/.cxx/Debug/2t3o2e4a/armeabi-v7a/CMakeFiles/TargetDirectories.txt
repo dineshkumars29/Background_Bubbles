@@ -1,0 +1,2 @@
+D:/GIT PRODUCT/Background_Bubbles/android/app/.cxx/Debug/2t3o2e4a/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GIT PRODUCT/Background_Bubbles/android/app/.cxx/Debug/2t3o2e4a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
