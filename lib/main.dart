@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
             particleRadius: 25.0,
             particleSpeed: 2.0,
             shape: ParticleShape.circle,
-            backgroundColor: Colors.blueAccent.withOpacity(0.5),
+            backgroundColor: Colors.blueAccent,
             widget: Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
